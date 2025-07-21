@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="auraexe25/main//githubbanner.png" alt="Veena Sahu Banner" />
+  <img src="auraexe25/main/githubbanner.png" alt="Veena Sahu Banner" />
 </p>
 
 
