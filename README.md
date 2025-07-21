@@ -1,3 +1,11 @@
+<!-- Banner -->
+<p align="center">
+  <img src="auraexe25/main//githubbanner.png" alt="Veena Sahu Banner" />
+</p>
+
+
+
+
 <h1 align="center">Hi 👋, I'm Veena Sahu</h1>
 <h3 align="center"> Learning || Exploring || Developing </h3>
 
