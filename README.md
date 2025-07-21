@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Veena Sahu</h1>
-<h3 align="center">Frontend Developer | Hackathon Finalist | Learner for Life</h3>
+<h3 align="center"> Learning || Exploring || Developing </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F9723D&center=true&vCenter=true&width=435&lines=Tech+Enthusiast+%7C+GDSC+Member;Full-Stack+Dev+%7C+Basketballer;Building+Projects+with+Purpose" alt="Typing SVG" />
@@ -11,10 +11,10 @@
 
 - 👩‍🎓 B.Tech student at **NIT Rourkela**
 - 💻 Passionate about **web dev**, **AI/ML**, and real-world problem-solving  
-- 🧠 Solved **400+ DSA problems** (LeetCode, Codeforces, etc.)
+- 🧠 Solved **500+ DSA problems** (LeetCode, Codeforces, etc.)
 - 🌱 Learning Python + Machine Learning actively
 - 🤝 Looking to collaborate on meaningful open-source projects
-- 🏆 Hackathon Finalist | Postman Student Expert
+
 
 ---
 
@@ -72,4 +72,4 @@
 
 ---
 
-*✨ Always learning. Always building. Let’s connect and create something impactful!*
+*Always learning. Always building. Let’s connect and create something impactful!*
