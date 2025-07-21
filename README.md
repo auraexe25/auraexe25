@@ -1,8 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="auraexe25/main/githubbanner.png" alt="Veena Sahu Banner" />
+  <img src="https://raw.githubusercontent.com/auraexe25/auraexe25/main/githubbanner.png" alt="Veena Sahu Banner" />
 </p>
-
 
 
 
