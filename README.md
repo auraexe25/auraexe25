@@ -9,7 +9,7 @@
 <h3 align="center"> Learning || Exploring || Developing </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F9723D&center=true&vCenter=true&width=435&lines=Tech+Enthusiast+%7C+GDSC+Member;Full-Stack+Dev+%7C+Basketballer;Building+Projects+with+Purpose" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F9723D&center=true&vCenter=true&width=435&lines=Tech+Enthusiast;Full-Stack+Dev;Building+Projects+with+Purpose" alt="Typing SVG" />
 </p>
 
 ---
