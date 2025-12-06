@@ -54,10 +54,10 @@
   <a href="mailto:veenasahu195@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/auraexe/" target="_blank">
+  <a href="https://leetcode.com/veenasahu" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://codeforces.com/profile/veenasahu195" target="_blank">
+  <a href="https://codeforces.com/profile/Thetechieguyyy" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
