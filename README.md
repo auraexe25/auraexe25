@@ -16,11 +16,11 @@
 
 ### 🚀 About Me
 
-- 👩‍🎓 B.Tech student at **NIT Rourkela**
-- 💻 Passionate about **web dev**, **AI/ML**, and real-world problem-solving  
-- 🧠 Solved **500+ DSA problems** (LeetCode, Codeforces, etc.)
-- 🌱 Learning Python + Machine Learning actively
-- 🤝 Looking to collaborate on meaningful open-source projects
+- B.Tech student at **NIT Rourkela** 👩‍🎓 
+- Passionate about **web dev**, **AI/ML**, and real-world problem-solving 💻 
+- Solved **500+ DSA problems** (LeetCode, Codeforces, etc.) 🧠 
+- Learning Python + Machine Learning actively 🌱 
+- Looking to collaborate on meaningful open-source projects!
 
 
 ---
