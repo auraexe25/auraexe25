@@ -16,7 +16,7 @@
 ### About Me
 
 🎓 Pre-Final year B.Tech undergraduate at **NIT Rourkela**
- 💻 Passionate about **Problem-Solving**, **Full Stack Development**, and **Generative AI**.
+💻 Passionate about **Problem-Solving**, **Full Stack Development**, and **Generative AI**.
 🏆 **Competitive Programming :**
   - **Expert** on Codeforces (Max Rating: 1720)
   - **Knight** on LeetCode (Max Rating: 1993) 
