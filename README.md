@@ -20,7 +20,7 @@
 - 🏆 **Competitive Programming :**
   - **Expert** on Codeforces (Max Rating: 1720)
   - **Knight** on LeetCode (Max Rating: 1993) 
-  - **4-Star** on CodeChef (Max Rating: 1830)
+  - **4-Star** on CodeChef (Max Rating: 1832)
 - 🌱 Actively building AI-powered web applications and exploring fields of Artificial Intelligence
 - 🤝 Open to collaborating on meaningful open-source projects!
 
